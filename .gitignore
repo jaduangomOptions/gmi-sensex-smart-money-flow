@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/secrets.toml
+gmi_v3_state.json
+gmi_v3_signals.csv
